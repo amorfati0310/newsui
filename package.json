@@ -1,0 +1,23 @@
+{
+  "name": "newsui",
+  "version": "1.0.0",
+  "description": "localserver 띄우고 실행합니다.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nigayo/newsui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nigayo/newsui/issues"
+  },
+  "homepage": "https://github.com/nigayo/newsui#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
